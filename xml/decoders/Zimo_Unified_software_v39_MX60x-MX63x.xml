@@ -33,75 +33,95 @@
       <model model="MX600 version 39+" replacementModel="MX600 version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="30V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="HO" numOuts="4" numFns="14" productID="166,199">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
+          <label xml:lang="cs">FV 1</label>
         </output>
         <output name="4" label="FO 2">
           <label xml:lang="de">FA2</label>
+          <label xml:lang="cs">FV 2</label>
         </output>
         <size length="25" width="11" height="2" units="mm"/>
       </model>
       <model model="MX600P12 version 39+" replacementModel="MX600P12 version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="30V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="HO" numOuts="4" numFns="14" productID="166,199">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
+          <label xml:lang="cs">FV 1</label>
         </output>
         <output name="4" label="FO 2">
           <label xml:lang="de">FA2</label>
+          <label xml:lang="cs">FV 2</label>
         </output>
         <size length="25" width="11" height="2" units="mm"/>
       </model>
       <model model="MX600R version 39+" replacementModel="MX600R version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="30V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="HO" numOuts="4" numFns="14" productID="166,199">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
+          <label xml:lang="cs">FV 1</label>
         </output>
         <output name="4" label="FO 2">
           <label xml:lang="de">FA2</label>
+          <label xml:lang="cs">FV 2</label>
         </output>
         <size length="25" width="11" height="2" units="mm"/>
       </model>
       <model model="MX616 version 39+" replacementModel="MX616 version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="24V" maxMotorCurrent="0.7A, peak=1.5A" maxTotalCurrent="0.7A" formFactor="HO" numOuts="6" numFns="14" productID="195">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
+          <label xml:lang="cs">FV 1</label>
         </output>
         <output name="4" label="FO 2">
           <label xml:lang="de">FA2</label>
+          <label xml:lang="cs">FV 2</label>
         </output>
         <output name="5" label="FO 3">
           <label xml:lang="de">FA3</label>
+          <label xml:lang="cs">FV 3</label>
         </output>
         <output name="6" label="FO 4">
           <label xml:lang="de">FA4</label>
+          <label xml:lang="cs">FV 4</label>
         </output>
         <size length="8" width="8" height="2.4" units="mm"/>
       </model>
       <model model="MX616N version 39+" replacementModel="MX616N version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="24V" maxMotorCurrent="0.7A, peak=1.5A" maxTotalCurrent="0.7A" formFactor="HO" numOuts="6" numFns="14" productID="195">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -120,9 +140,11 @@
       <model model="MX616R version 39+" replacementModel="MX616R version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="24V" maxMotorCurrent="0.7A, peak=1.5A" maxTotalCurrent="0.7A" formFactor="HO" numOuts="6" numFns="14" productID="195">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -141,9 +163,11 @@
       <model model="MX617 version 39+" replacementModel="MX617 version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="HO" numOuts="6" numFns="14" productID="177,197">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -162,9 +186,11 @@
       <model model="MX617F version 39+" replacementModel="MX617F version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="HO" numOuts="6" numFns="14" productID="177,197">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -183,9 +209,11 @@
       <model model="MX617N version 39+" replacementModel="MX617N version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="0.7A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="HO" numOuts="6" numFns="14" productID="177,197">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -204,9 +232,11 @@
       <model model="MX617R version 39+" replacementModel="MX617R version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="HO" numOuts="6" numFns="14" productID="177,197">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -225,9 +255,11 @@
       <model model="MX618N18 version 39+" replacementModel="MX618N18 version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="N" numOuts="8" numFns="14" productID="181,243">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -252,9 +284,11 @@
       <model model="MX620 version 39+" replacementModel="MX620 version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="20V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="N" numOuts="6" numFns="14" productID="201">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -273,9 +307,11 @@
       <model model="MX620F version 39+" replacementModel="MX620F version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="20V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="N" connector="NMRAsmall" numOuts="6" numFns="14" productID="201">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -294,9 +330,11 @@
       <model model="MX620N version 39+" replacementModel="MX620N version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="20V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="N" connector="NMRAsmall" numOuts="6" numFns="14" productID="201">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -315,9 +353,11 @@
       <model model="MX620R version 39+" replacementModel="MX620R version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="20V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="N" connector="NMRAmedium" numOuts="6" numFns="14" productID="201">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -336,9 +376,11 @@
       <model model="MX622 version 39+" replacementModel="MX622 version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="N" numOuts="6" numFns="14" productID="192,233">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -357,9 +399,11 @@
       <model model="MX622F version 39+" replacementModel="MX622F version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="N" connector="NMRAsmall" numOuts="6" numFns="14" productID="192,233">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -378,9 +422,11 @@
       <model model="MX622N version 39+" replacementModel="MX622N version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="N" connector="NMRAsmall" numOuts="6" numFns="14" productID="192,233">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -399,9 +445,11 @@
       <model model="MX622R version 39+" replacementModel="MX622R version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="N" connector="NMRAmedium" numOuts="6" numFns="14" productID="192,233">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -420,9 +468,11 @@
       <model model="MX623 version 39+" replacementModel="MX623 version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="24V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="N" numOuts="8" numFns="14" productID="234">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -447,9 +497,11 @@
       <model model="MX623F version 39+" replacementModel="MX623F version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="24V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="N" numOuts="8" numFns="14" productID="234">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -474,9 +526,11 @@
       <model model="MX623P12 version 39+" replacementModel="MX623P12 version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="24V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="N" numOuts="8" numFns="14" productID="234">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -501,9 +555,11 @@
       <model model="MX623R version 39+" replacementModel="MX623R version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="24V" maxMotorCurrent="0.8A, peak=1.5A" maxTotalCurrent="0.8A" formFactor="N" numOuts="8" numFns="14" productID="234">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -528,9 +584,11 @@
       <model model="MX630 version 39+" replacementModel="MX630 version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="30V" maxMotorCurrent="1A, peak=2.5A" maxTotalCurrent="1A" formFactor="HO" numOuts="8" numFns="14" productID="130,211,218">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -555,9 +613,11 @@
       <model model="MX630F version 39+" replacementModel="MX630F version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="30V" maxMotorCurrent="1A, peak=2.5A" maxTotalCurrent="1A" formFactor="HO" connector="NMRAsmall" numOuts="8" numFns="14" productID="130,211,218">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -582,9 +642,11 @@
       <model model="MX630P16 version 39+" replacementModel="MX630P16 version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="30V" maxMotorCurrent="1A, peak=2.5A" maxTotalCurrent="1A" formFactor="HO" connector="PluX16" numOuts="8" numFns="14" productID="130,211,218">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -609,9 +671,11 @@
       <model model="MX630R version 39+" replacementModel="MX630R version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="30V" maxMotorCurrent="1A, peak=2.5A" maxTotalCurrent="1A" formFactor="HO" connector="NMRAmedium" numOuts="8" numFns="14" productID="130,211,218">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -760,9 +824,11 @@
       <model model="MX633 version 39+" replacementModel="MX633 version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="1.2A, peak=2.5A" maxTotalCurrent="1.2A" formFactor="HO" numOuts="10" numFns="14" productID="133,237">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -793,9 +859,11 @@
       <model model="MX633F version 39+" replacementModel="MX633F version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="1.2A, peak=2,5A" maxTotalCurrent="1.2A" formFactor="HO" connector="NMRAsmall" numOuts="10" numFns="14" productID="133,237">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -826,9 +894,11 @@
       <model model="MX633P16 version 39+" replacementModel="MX633P16 version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="1.2A, peak=2,5A" maxTotalCurrent="1.2A" formFactor="HO" connector="PluX16" numOuts="10" numFns="14" productID="133,237">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -859,9 +929,11 @@
       <model model="MX633P22 version 39+" replacementModel="MX633P22 version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="1.2A, peak=2,5A" maxTotalCurrent="1.2A" formFactor="HO" connector="PluX22" numOuts="10" numFns="14" productID="133,237">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -892,9 +964,11 @@
       <model model="MX633R version 39+" replacementModel="MX633R version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="1.2A, peak=2,5A" maxTotalCurrent="1.2A" formFactor="HO" connector="NMRAmedium" numOuts="10" numFns="14" productID="133,237">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -1100,9 +1174,11 @@
       <model model="MX635 version 39+" replacementModel="MX635 version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="1.8A, peak=2.5A" maxTotalCurrent="1.8A" formFactor="HO" numOuts="10" numFns="14" productID="135">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -1133,9 +1209,11 @@
       <model model="MX635P22 version 39+" replacementModel="MX635P22 version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="1.8A, peak=2.5A" maxTotalCurrent="1.8A" formFactor="HO" numOuts="10" numFns="14" productID="135">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -1166,9 +1244,11 @@
       <model model="MX635R version 39+" replacementModel="MX635R version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="1.8A, peak=2.5A" maxTotalCurrent="1.8A" formFactor="HO" numOuts="10" numFns="14" productID="135">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -1199,9 +1279,11 @@
       <model model="MX635V version 39+" replacementModel="MX635V version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="1.8A, peak=2.5A" maxTotalCurrent="1.8A" formFactor="HO" numOuts="10" numFns="14" productID="135">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -1232,9 +1314,11 @@
       <model model="MX635VP version 39+" replacementModel="MX635VP version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="1.8A, peak=2.5A" maxTotalCurrent="1.8A" formFactor="HO" numOuts="10" numFns="14" productID="135">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
           <label xml:lang="de">Lrück</label>
+          <label xml:lang="cs">Zadní světla</label>
         </output>
         <output name="3" label="FO 1">
           <label xml:lang="de">FA1</label>
@@ -1405,8 +1489,10 @@
       <model model="MX637P22 version 39+" replacementModel="MX637P22 version 40+" replacementFamily="query:Zimo Unified software (version 40+)" lowVersionID="39" highVersionID="40" maxInputVolts="35V" maxMotorCurrent="1.2A, peak=2,5A" maxTotalCurrent="1.2A" formFactor="HO" connector="PluX22" numOuts="10" numFns="14" productID="137">
         <output name="1" label="Front Light">
           <label xml:lang="de">Lvor</label>
+          <label xml:lang="cs">Přední světla</label>
         </output>
         <output name="2" label="Rear Light">
+          <label xml:lang="cs">Zadní světla</label>
           <label xml:lang="de">Lrück</label>
         </output>
         <output name="3" label="FO 1">
@@ -1535,6 +1621,7 @@
         <label xml:lang="it">Versione Decoder: </label>
         <label xml:lang="fr">Version décodeur: </label>
         <label xml:lang="de">Decoder Version: </label>
+        <label xml:lang="cs">Verze dekodéru: </label>
       </variable> 
       <variable item="Decoder ID 1" CV="250" default="130" readOnly="yes" include="130">
         <decVal/>
