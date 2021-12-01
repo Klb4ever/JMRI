@@ -15,7 +15,7 @@
 <!-- version 1.8 06 May 2019 Ronald Kuhn -  added CV144 Bit4 & Bit5 -->
 <!-- version 1.9 25 Jun 2019 Ronald Kuhn -  CV114 & CV152 tooltip correction -->
 <!-- version 1.10 8 Mar 2021 Nigel Cliffe -  CV112 bit 5 tooltip correction -->
-<!-- version 1.11 29 Nov 2021 Ronald Kuhn -  Correction of "Choice_Ligth8.xml"-->
+<!-- version 1.11 29 Nov 2021 Ronald Kuhn -  Choice-Light4_v40 for v40.x -->
 <variables xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://jmri.org/xml/schema/decoder.xsd">
  <xi:include href="http://jmri.org/xml/decoders/nmra/userId.xml"/>
   <!-- Used unrelated item names used to place CV107-108 on the Lights pane -->
@@ -993,7 +993,7 @@
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth1.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth2.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth3.xml"/>
-      <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth4.xml"/>
+      <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Light4_v40.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Light8.xml"/>
     </enumVal>
     <label>Front light effect generated</label>
@@ -1013,7 +1013,7 @@
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth1.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth2.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth3.xml"/>
-      <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth4.xml"/>
+      <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Light4_v40.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Light8.xml"/>
     </enumVal>
     <label>Rear light effect generated</label>
@@ -1033,7 +1033,7 @@
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth1.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth2.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth3.xml"/>
-      <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth4.xml"/>
+      <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Light4_v40.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Light8.xml"/>
     </enumVal>
     <label>Function output 1 effect generated</label>
@@ -1053,7 +1053,7 @@
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth1.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth2.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth3.xml"/>
-      <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth4.xml"/>
+      <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Light4_v40.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Light8.xml"/>
     </enumVal>
     <label>Function output 2 effect generated</label>
@@ -1073,7 +1073,7 @@
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth1.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth2.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth3.xml"/>
-      <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth4.xml"/>
+      <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Light4_v40.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Light8.xml"/>
     </enumVal>
     <label>Function output 3 effect generated</label>
@@ -1093,7 +1093,7 @@
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth1.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth2.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth3.xml"/>
-      <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth4.xml"/>
+      <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Light4_v40.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Light8.xml"/>
     </enumVal>
     <label>Function output 4 effect generated</label>
@@ -1113,7 +1113,7 @@
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth1.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth2.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth3.xml"/>
-      <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth4.xml"/>
+      <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Light4_v40.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Light8.xml"/>
     </enumVal>
     <label>Function output 5 effect generated</label>
@@ -1133,7 +1133,7 @@
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth1.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth2.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth3.xml"/>
-      <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Ligth4.xml"/>
+      <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Light4_v40.xml"/>
       <xi:include href="http://jmri.org/xml/decoders/zimo/Choice-Light8.xml"/>
     </enumVal>
     <label>Functin output 6 effect generated</label>
